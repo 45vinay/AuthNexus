@@ -1,0 +1,19 @@
+2025-10-23 16:08:09 [INFO]: Login attempt
+2025-10-23 16:08:09 [INFO]: Login successful
+2025-10-23 17:29:03 [INFO]: Login attempt
+2025-10-23 17:29:05 [INFO]: Login successful
+2025-10-23 17:29:05 [ERROR]: Login error: logToDB is not a function
+2025-10-23 17:40:38 [INFO]: Login attempt
+2025-10-23 17:40:38 [ERROR]: Login error: logToDB is not a function
+2025-10-23 17:43:47 [INFO]: Login attempt
+2025-10-23 17:43:48 [INFO]: Login successful
+2025-10-23 17:57:29 [INFO]: Login attempt
+2025-10-23 17:57:29 [INFO]: Login successful
+2025-10-23 18:06:56 [INFO]: Login attempt
+2025-10-23 18:06:56 [INFO]: Login successful
+2025-10-23 23:04:55 [INFO]: Login attempt
+2025-10-23 23:04:55 [ERROR]: Login error: User.findOne is not a function
+2025-10-24 11:30:35 [INFO]: Login attempt
+2025-10-24 11:30:35 [INFO]: Login successful
+2025-10-24 12:09:12 [INFO]: Login attempt
+2025-10-24 12:09:13 [INFO]: Login successful

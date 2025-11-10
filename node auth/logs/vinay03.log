@@ -1,0 +1,8 @@
+2025-10-24 11:28:57 [INFO]: Registration failed: username/email already exists - vinay03
+2025-10-24 11:29:22 [INFO]: User registered successfully: vinay03
+2025-10-24 12:13:56 [INFO]: Login attempt
+2025-10-24 12:13:57 [INFO]: Login successful
+2025-10-24 12:20:01 [INFO]: Login attempt
+2025-10-24 12:20:01 [INFO]: Login successful
+2025-10-24 12:20:33 [INFO]: Login attempt
+2025-10-24 12:20:33 [INFO]: Login failed: invalid password

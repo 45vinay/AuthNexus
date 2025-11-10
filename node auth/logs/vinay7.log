@@ -1,0 +1,8 @@
+2025-10-28 13:22:08 [ERROR]: Error verifying OTP: Request failed with status code 400
+2025-10-28 13:24:10 [INFO]: User registered successfully
+2025-10-28 14:55:25 [WARN]: Registration failed: username/email already exists
+2025-10-28 14:57:12 [WARN]: Registration failed: username/email already exists
+2025-10-28 15:04:43 [INFO]: Login successful
+2025-10-28 15:08:38 [INFO]: Login successful
+2025-10-28 15:09:03 [INFO]: Login successful
+2025-10-28 15:31:16 [INFO]: Login successful

@@ -1,0 +1,14 @@
+2025-10-23 17:55:31 [INFO]: User registered successfully: vinay02
+2025-10-23 17:56:17 [INFO]: Login attempt
+2025-10-23 17:56:17 [INFO]: Login successful
+2025-10-23 17:57:05 [INFO]: Login attempt
+2025-10-23 17:57:05 [INFO]: Login successful
+2025-10-23 17:58:34 [INFO]: Login attempt
+2025-10-23 17:58:34 [INFO]: Login successful
+2025-10-23 18:05:59 [INFO]: Login attempt
+2025-10-23 18:05:59 [INFO]: Login successful
+2025-10-23 23:05:16 [ERROR]: Error while registering user: User.findOne is not a function
+2025-10-24 12:09:37 [INFO]: Login attempt
+2025-10-24 12:09:38 [INFO]: Login successful
+2025-10-24 12:11:57 [INFO]: Login attempt
+2025-10-24 12:11:57 [INFO]: Login successful

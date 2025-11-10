@@ -1,0 +1,18 @@
+2025-10-27 18:01:47 [ERROR]: Error during registration: Request failed with status code 404
+2025-10-27 18:24:31 [ERROR]: Error in registerUser: Request failed with status code 500
+2025-10-27 18:24:34 [ERROR]: Error in registerUser: Request failed with status code 500
+2025-10-27 18:24:39 [ERROR]: Error in registerUser: Request failed with status code 500
+2025-10-27 18:24:40 [ERROR]: Error in registerUser: Request failed with status code 500
+2025-10-27 18:33:21 [ERROR]: Error in registerUser: Request failed with status code 500
+2025-10-27 18:33:46 [ERROR]: Error in registerUser: Request failed with status code 500
+2025-10-27 18:41:22 [ERROR]: Error in registerUser: Request failed with status code 500
+2025-10-27 18:45:26 [ERROR]: Error in registerUser: Request failed with status code 500
+2025-10-27 18:46:52 [ERROR]: Error in registerUser: Request failed with status code 500
+2025-10-27 18:51:23 [ERROR]: Error in registerUser: Request failed with status code 400
+2025-10-27 18:51:46 [ERROR]: Error in registerUser: Request failed with status code 400
+2025-10-27 18:55:50 [ERROR]: Error in registerUser: Request failed with status code 500
+2025-10-27 18:57:27 [ERROR]: Error in registerUser: Request failed with status code 500
+2025-10-27 23:33:15 [INFO]: Registration initiation attempt.
+2025-10-27 23:33:19 [INFO]: OTP sent successfully for registration.
+2025-10-27 23:35:15 [INFO]: Registration initiation attempt.
+2025-10-27 23:35:18 [INFO]: OTP sent successfully for registration.

@@ -1,0 +1,13 @@
+otp-service/
+├─ server.js
+├─ .env
+├─ database/
+│  └─ db.js
+├─ routes/
+│  └─ otp.js
+├─ controllers/
+│  └─ otpController.js
+├─ models/
+│  └─ otpModel.js
+└─ utils/
+   └─ sendMail.js

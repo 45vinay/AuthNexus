@@ -1,0 +1,9 @@
+2025-10-28 11:07:12 [ERROR]: Error verifying OTP: Request failed with status code 404
+2025-10-28 11:09:21 [ERROR]: Error verifying OTP: Request failed with status code 400
+2025-10-28 11:14:36 [INFO]: User registered successfully
+2025-10-28 11:15:23 [WARN]: Registration failed: username/email already exists
+2025-10-28 11:15:33 [ERROR]: Error verifying OTP: Request failed with status code 400
+2025-10-28 11:16:47 [ERROR]: Error verifying OTP: Request failed with status code 400
+2025-10-28 11:17:10 [WARN]: Registration failed: username/email already exists
+2025-10-28 11:40:12 [ERROR]: Error verifying OTP: Request failed with status code 400
+2025-10-28 11:40:23 [ERROR]: Error verifying OTP: E11000 duplicate key error collection: node_auth.users index: username_1 dup key: { username: "vinay4" }
